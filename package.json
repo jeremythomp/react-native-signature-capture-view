@@ -1,6 +1,6 @@
 {
   "name": "react-native-signature-capture-view",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A webview wrapper around signaturepad.js",
   "main": "index.js",
   "scripts": {
@@ -30,9 +30,9 @@
   "author": "Ahmed Rafiullah",
   "license": "MIT",
   "devDependencies": {
-    "metro-react-native-babel-preset": "^0.64.0"
+    "metro-react-native-babel-preset": "^0.69.0"
   },
   "peerDependencies": {
-    "react-native-webview": "^10.9.1"
+    "react-native-webview": "^11.23.0"
   }
 }
